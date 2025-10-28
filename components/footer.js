@@ -152,25 +152,11 @@ class CustomFooter extends HTMLElement {
           <div class="footer-column">
             <h3>Kontak Kami</h3>
             <ul>
-              <li><i data-feather="phone" style="width: 16px; height: 16px; margin-right: 8px;"></i> +62 812-3456-7890</li>
               <li><i data-feather="mail" style="width: 16px; height: 16px; margin-right: 8px;"></i> info@draperyhijab.com</li>
               <li><i data-feather="map-pin" style="width: 16px; height: 16px; margin-right: 8px;"></i> Jakarta, Indonesia</li>
             </ul>
           </div>
-          
-          <div class="footer-column">
-            <h3>Metode Pembayaran</h3>
-            <p>Kami menerima pembayaran melalui berbagai metode aman:</p>
-            <div class="payment-methods">
-              <img src="http://static.photos/payment/bca.png" alt="BCA">
-              <img src="http://static.photos/payment/bni.png" alt="BNI">
-              <img src="http://static.photos/payment/mandiri.png" alt="Mandiri">
-              <img src="http://static.photos/payment/ovo.png" alt="OVO">
-              <img src="http://static.photos/payment/gopay.png" alt="GOPAY">
-            </div>
-          </div>
-        </div>
-        
+
         <div class="copyright">
           <p>&copy; 2023 DRAPERY INSTAN HIJAB SET MALAYSIA. Hak Cipta Dilindungi.</p>
         </div>
